@@ -1,6 +1,6 @@
 class love
 {
-    // Take love
+    // Please run me in your IDE.Thanks
     public static void main(String[] args)
     {
         final String message = " I love You ";
