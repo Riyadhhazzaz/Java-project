@@ -1,6 +1,6 @@
 class love
 {
-    // Java program to print heart pattern
+    // Take love
     public static void main(String[] args)
     {
         final String message = " I love You ";
